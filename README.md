@@ -1,6 +1,8 @@
 # Customer Churn Prediction from an imbalanced real-life bank dataset.
 Customer Churn means if an existing customer will retain or not. Identifying this is very crucial for any business. It is much more expensive to sign in a new client than keeping an existing one. It is advantageous for banks to know what leads a client towards the decision to leave the company. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
+## Dataset from:
+https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 ## Dataset Description
 - RowNumber—corresponds to the record (row) number and has no effect on the output
 - CustomerId—contains random values and has no effect on customer leaving the bank.
